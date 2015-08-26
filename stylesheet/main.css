@@ -1,0 +1,93 @@
+html {
+  background-color: #FFFFFF;
+  padding: 6px;
+}
+
+.browser-header {
+  background: url(../header1.png) no-repeat;
+  background-size: cover;
+  min-height: 300px;
+}
+
+.sidebar {
+  max-width: 175px;
+  min-height: 300px;
+  margin: 0 auto;
+  position: absolute;
+  top: 400px;
+  left: 200px;
+  font-size: 30px;
+}
+.sidebar-subtitle {
+  max-width: 200px;
+  min-height: 300px;
+  margin: 0 auto;
+  position: absolute;
+  top: 500px;
+  left: 200px;
+  font-size: 20px;
+  color: grey;
+}
+
+.sidebar-search {
+  max-width: 175px;
+  min-height: 300px;
+  margin: 0 auto;
+  position: absolute;
+  top: 600px;
+  left: 200px;
+  font-size: 17px;
+  color: grey;
+}
+
+.browser-title {
+  max-width: 600px;
+  min-height: 500px;
+  margin: 0 auto;
+  position: absolute;
+  top: 400px;
+  left: 550px;
+  font-size: 50px;
+}
+
+.browser-subtitle {
+  max-width: 600px;
+  min-height: 200px;
+  margin: 0 auto;
+  position: absolute;
+  top: 600px;
+  left: 550px;
+  font-size: 25px;
+  color: grey;
+}
+
+.browser-image {
+  background: url(../Class.jpg) no-repeat;
+  width: 700px;
+  height: 700px;
+  margin: 0 auto;
+position: absolute;
+top: 700px;
+left: 550px;
+}
+
+.browser-article {
+  max-width: 600px;
+  min-height: 600px;
+  margin: 0 auto;
+  position: absolute;
+  top: 1000px;
+  left: 550px;
+  font-size: 20px;
+}
+
+.browser-bar {
+  max-width: 1000px;
+  min-height: 760px;
+  background-color: #E6E6E7;
+  margin: 0 auto;
+  border-radius: 10px 10px 0 0;
+  position: absolute;
+  top: 650px;
+  left: 200px;
+}
